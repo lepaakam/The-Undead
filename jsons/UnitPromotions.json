@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [80]% chance>", "[-5] HP when healing"]
+		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [99]% chance>", "[-30] HP when healing"]
 	},
 	{
 		"name": "Breach the Walls",
