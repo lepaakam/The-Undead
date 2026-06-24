@@ -5,7 +5,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"obsoleteTech": "Agriculture",
-		"uniques": ["Founds a new city",]
+		"uniques": ["Founds a new city"]
 	},
 	{
 		"name": "Undead Warrior",
