@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [100]% chance>", "[-1] HP when healing"]
+		"uniques": ["Uncapturable", "[30]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [100]% chance>", "[-1] HP when healing","No damage penalty for wounded units"]
 	},
 	{
 		"name": "Breach the Walls",
@@ -17,10 +17,10 @@
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
+		"uniques": ["[10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
 	},
 	{
 		"name": "Summon the Lich King",
-		"uniques": ["[Great General] is earned [40]% faster"]
+		"uniques": ["[Great General] is earned [80]% faster"]
 	}
 ]
