@@ -5,8 +5,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"obsoleteTech": "Agriculture",
-		"uniques": ["Founds a new city",
-			"Unbuildable"]
+		"uniques": ["Founds a new city",]
 	},
 	{
 		"name": "Undead Warrior",
@@ -69,6 +68,7 @@
 		"uniques": ["[+100]% Strength <vs [Armored] units>",
 			"No defensive terrain bonus",
 			"Can move after attacking",
+			"Blast radius [3]",
 			"Ignores Zone of Control"],
 		"attackSound": "gdrAttack"
 	},
