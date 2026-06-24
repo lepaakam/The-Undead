@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Uncapturable", "[-10]% Strength <vs [Military] units>", "May capture killed [Military] units", "[-5] HP when healing"]
+		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [80]% chance>", "[-5] HP when healing"]
 	},
 	{
 		"name": "Breach the Walls",
@@ -21,6 +21,6 @@
 	},
 	{
 		"name": "Summon the Lich King",
-		"uniques": ["[Great General] is earned [25]% faster"]
+		"uniques": ["[Great General] is earned [40]% faster"]
 	}
 ]
