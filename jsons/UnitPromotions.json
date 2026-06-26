@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Uncapturable", "[30]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [100]% chance>", "[-1] HP when healing","No damage penalty for wounded units"]
+		"uniques": ["Uncapturable", "[30]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [100]% chance>", "[-1] HP when healing","No damage penalty for wounded units","May enter foreign tiles without open borders, but loses [10] religious strength each turn it ends there <hidden from users>"]
 	},
 	{
 		"name": "Breach the Walls",
